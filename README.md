@@ -7,3 +7,5 @@ The CSS and HTML are for the most part lifted from the original exercise, while 
 Check out lines 27 to 37 of 'index.js' to learn the gameplay and win conditions for MuckRaker. Thanks for taking a look at this project! 
 
 - jhg
+
+https://jgibbel.github.io/muckraker/
